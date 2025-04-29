@@ -13,14 +13,12 @@ To write a Python program that reads two integers, creates a complex number usin
 
 ##  Program
 ~~~
-a = (0 == True) 
-b = (False== False) 
-c = True + True 
-d = False + 9 
-print("a is", a) 
-print("b is", b) 
-print("c:", c) 
-print("d:", d)
+a=int(input()) 
+b=int(input()) 
+x=complex(a,b) 
+print(x) 
+print(x.real) 
+print(x.imag)
 ~~~
 
 ## Output
