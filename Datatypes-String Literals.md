@@ -1,4 +1,4 @@
-![438645599-d12a8ee0-a3b2-44e7-922a-5c0d5fbd270e](https://github.com/user-attachments/assets/0f742386-4b5f-4f84-95d2-885374af54fa)# Datatypes-Read and Print a String in Python
+## Datatypes-Read and Print a String in Python
 
 ## Aim
 To write a Python program to read a string from the user and then print it.
