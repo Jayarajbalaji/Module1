@@ -29,3 +29,4 @@ print("d:", d)
 ![438640889-06ee99d0-5c9b-40f9-985e-9f7a8a46239d](https://github.com/user-attachments/assets/e65f0509-3f30-4dd0-9cf1-31901de5104d)
 
 ## Result
+Thus the program has been successfully executed
